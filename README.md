@@ -1,7 +1,6 @@
 # AI-painting
-AI painting materials
 
-#AI painting platforms
+# AI painting platforms
 
 |Name                   | Tags   |URL                                                                                                                       |
 |-----------------------|-----------|-----------------------------------------------------------------------------------------------------------|
