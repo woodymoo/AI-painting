@@ -1,5 +1,9 @@
 # AI-painting
 
+## DreamStudio latest model: SDXL Beta(preview)   
+<img width="1292" alt="image" src="https://user-images.githubusercontent.com/1646622/234959072-6d069a1f-e21a-46ad-b96f-76472d54dd6f.png">
+Amazing!
+
 # AI painting platforms
 
 |Name                   | Tags   |URL                                                                                                                       |
